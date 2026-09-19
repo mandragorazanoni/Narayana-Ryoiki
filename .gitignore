@@ -1,0 +1,19 @@
+# Python Caches & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Build & Binaries
+build/
+dist/
+*.spec
+*.bin
+
+# OS & Editor Files
+.DS_Store
+*.swp
+*.tmp
+.vscode/
+.idea/
